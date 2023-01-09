@@ -1,0 +1,43 @@
+B{
+	height: 100%;
+	width: 100%;
+	font-family: MERRIWEATHER;
+	color:ghostwhite ;
+	font-size: 1.5REM;
+	}
+	H1{
+		font-size: 4REM;
+		font-family:'GEORGIA'; 
+		font-style:italic;
+	}
+	I{
+		color: black;
+		font-size:1EM;
+	}
+BODY{ 
+	background-image:url("https://images.unsplash.com/photo-1580566176138-daa588058b59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bXVsdGljb2xvcnxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background: url(https://images.unsplash.com/photo-1580566176138-daa588058b59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bXVsdGljb2xvcnxlbnwwfHwwfHw%3D&w=1000&q=80) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
+  HR
+  {
+  	color:orange;
+  	border-width:3PX ;
+  	MAX-width: 250PX;
+  }
+  .BTN{
+  	padding: 1REM 1REM;
+    border-radius:50PX;
+    font-weight: 600;
+    text-transform: uppercase;
+    align-content: center;
+  }
+  .BTN-DARK{
+  	background-color:seagreen;
+  	border-color: seagreeN;
+  }
+ a{
+ 	text-align:center ;
+ }
